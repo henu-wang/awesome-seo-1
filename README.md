@@ -42,6 +42,7 @@
 - [JSON-LD Schema Markup Generator](https://www.jamesdflynn.com/json-ld-schema-generator/) - A utility to build schema markup using JSON-LD.
 - [Open Graph Debugger](https://developers.facebook.com/tools/debug/) - Debug Open Graph metadata.
 - [Schema.org Full List Documentation](http://schema.org/docs/full.html) - Full list of schema.org recipes for implementing structured data.
+- [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - WordPress plugin for Generative Engine Optimization (GEO) — manages AI crawler access via robots.txt, auto-generates llms.txt, and injects JSON-LD structured data for AI search engines like ChatGPT, Perplexity, and Gemini.
 
 ## **Articles and eBooks**
 - 🇧🇷 [eBook O Guia Completo de SEO em 2015 e Além](http://materiais.resultadosdigitais.com.br/guia-completo-seo) - Ebook about SEO written in Portuguese.
